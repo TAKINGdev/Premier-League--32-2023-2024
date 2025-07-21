@@ -1,3 +1,4 @@
+![Project Cover](COVER.png)
 # 🏆 Premier League Standings Analysis (2023-2024--32)
 
 This project analyzes the **Premier League standings** using powerful Python libraries:  
