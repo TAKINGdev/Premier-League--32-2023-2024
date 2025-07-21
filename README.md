@@ -43,28 +43,28 @@ Created new analytical columns:
 Included the following plots using **Matplotlib**:
 
 1. Bar chart of total **Points**  
-   ![Points](plots/points_bar.png)
+   ![Points](Points.png)
 
 2. Bar chart of **Goals Scored**  
-   ![Goals Scored](plots/goals_scored.png)
+   ![Goals Scored](GoalsScored.png)
 
 3. Bar chart of **Goals Conceded**  
-   ![Goals Conceded](plots/goals_conceded.png)
+   ![Goals Conceded](GoalsConceded.png)
 
 4. Bar chart of **Goal Difference**  
-   ![Goal Difference](plots/goal_diff.png)
+   ![Goal Difference](GoalDifferencef.png)
 
 5. Bar chart of **Win Rate**  
-   ![Win Rate](plots/win_rate.png)
+   ![Win Rate](WinRate.png)
 
 6. Pie chart showing each team’s share of total goals  
-   ![Goals Pie](plots/goals_pie.png)
+   ![Goals Pie](shareoftotalgoals.png)
 
 7. **Scatter plot**: Goals Scored vs Points  
-   ![Scatter](plots/goals_vs_points.png)
+   ![Scatter](GoalsScoredvsPoints.png)
 
 8. **Line plot**: GF, GA, GD per team  
-   ![Line Plot](plots/gf_ga_gd_line.png)
+   ![Line Plot](Lineplot.png)
 
 > All plots are saved inside the `plots/` directory.
 
