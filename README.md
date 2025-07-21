@@ -52,7 +52,7 @@ Included the following plots using **Matplotlib**:
    ![Goals Conceded](GoalsConceded.png)
 
 4. Bar chart of **Goal Difference**  
-   ![Goal Difference](GoalDifferencef.png)
+   ![Goal Difference](GoalDifference.png)
 
 5. Bar chart of **Win Rate**  
    ![Win Rate](WinRate.png)
